@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "0.0.1",
+  "description": "A full stack todo aplication",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephan-kashkarov/todojs.git"
+  },
+  "author": "Stephan-kashkarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephan-kashkarov/todojs/issues"
+  },
+  "homepage": "https://github.com/Stephan-kashkarov/todojs#readme"
+}
